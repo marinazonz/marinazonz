@@ -1,6 +1,11 @@
-### Hi there 👋
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" />
+<br>
+<br>
 
 <!--
+
+### Hi there 👋
+
 **marinazonz/marinazonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
