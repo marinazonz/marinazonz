@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" />
 <br>
 <br>
 
@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+##helicopter
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif" />
+<br>
+<br>
 
 ## cat
 <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/giphy.gif" />
