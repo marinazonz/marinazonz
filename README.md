@@ -1,3 +1,7 @@
+<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+<br>
+<br> 
+
 <!---
 ### Hi there 👋
 
