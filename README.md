@@ -1,8 +1,4 @@
-<img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
-<br>
-<br> 
 
-<!---
 ### Hi there 👋
 
 **marinazonz/marinazonz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
